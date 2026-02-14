@@ -1,0 +1,26 @@
+# Credentials and secrets
+.credentials.json
+
+# Runtime and session state
+cache/
+debug/
+downloads/
+file-history/
+history.jsonl
+projects/
+session-env/
+shell-snapshots/
+todos/
+
+# Stats and logs
+stats-cache.json
+stats/
+*.log
+
+# Script runtime state
+scripts/.last-review
+
+# Environment
+.env
+plugins/
+plugins/

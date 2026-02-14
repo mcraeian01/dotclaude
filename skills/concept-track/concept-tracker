@@ -1,0 +1,14 @@
+{
+  "known":{
+    "linux_navigation": ["cd", "ls", "mkdir"],
+    "file_manipulation": ["touch", "echo"],
+    "git_basics": ["git init"],
+    "aws_core": ["S3", "Amplify", "CloudFront", "IAM basics"],
+  },
+  "learning":{
+    "linux_navigation": ["pwd"],
+    "linux_system": ["mkdir -p flag", "chmod", "chown", "pacman (Arch)"],
+    "claude_cli": ["/init", "CLAUDE.md hierarchy", "Global vs Local config"],
+    "web_infrastructure": ["Webhooks", "Build specs (YAML)", "DNS record types"]
+  }
+}
